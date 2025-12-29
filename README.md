@@ -11,6 +11,8 @@
   </p>
   
   <p align="center">
+    También puedes contactarme directamente por correo electrónico en:
+    <br>
     <code>rafseggom [at] gmail [dot] com</code>
   </p>
 
@@ -93,7 +95,7 @@
   <table>
     <tr>
       <td align="center">
-         <img src="https://github-readme-stats.vercel.app/api?username=rafseggom&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Stats de Rafael" />
+         <img src="https://github-readme-stats.vercel.app/api?username=rafseggom&show_icons=true&theme=default&hide_border=true" alt="Stats de Rafael" />
       </td>
       <td align="center">
          <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafseggom&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Racha" />
@@ -101,7 +103,7 @@
     </tr>
   </table>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafseggom&layout=compact&theme=default&hide_border=true&langs_count=8&size_weight=0.5&count_private=true" alt="Lenguajes de Rafael" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafseggom&layout=compact&theme=default&hide_border=true&langs_count=8&size_weight=0.5" alt="Lenguajes de Rafael" />
 </div>
 
 <br>
