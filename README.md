@@ -1,6 +1,5 @@
 <div align="center">
   
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Agile+%26+GitFlow+Practitioner;Building+Real+Solutions" alt="Typing SVG" />
   </a>
@@ -17,7 +16,9 @@
   <a href="https://github.com/rafseggom">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
+  <a href="https://forms.gle/k4AaCDsqD5LRb5u66" target="_blank">
+    <img src="https://img.shields.io/badge/Contact_Me-Form-D14836?style=for-the-badge&logo=gmail&logoColor=red" alt="Google Forms" />
+  </a>
 
 </div>
 
@@ -29,7 +30,7 @@
 const rafael = {
     location: "Sevilla, Spain 🇪🇸",
     education: "Software Engineering @ Universidad de Sevilla",
-    contact: "rafseggom [at] gmail [dot] com",
+    contact: "Via Google Form (Link below)",
     focus: ["Scrum", "GitFlow", "Full Stack Development"],
     currentlyLearning: ["Kubernetes", "Microservices", "Cloud Architecture"],
     workingOn: "Building systems that actually solve problems",
@@ -96,15 +97,15 @@ Software engineering student focused on **practical solutions** and **agile work
 ## 🧩 Featured Projects
 
 <div align="center">
-        <a href="https://github.com/rafseggom/team-sorter">
-          <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=team-sorter&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Team Sorter" />
-        </a>
-        <a href="https://github.com/rafseggom/amigo-invisible">
-          <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=amigo-invisible&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Amigo Invisible" />
-        </a>
-        <a href="https://github.com/rafseggom/Criptografia_EVCS">
-          <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=Criptografia_EVCS&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Criptografía EVCS" />
-
+    <a href="https://github.com/rafseggom/team-sorter">
+      <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=team-sorter&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Team Sorter" />
+    </a>
+    <a href="https://github.com/rafseggom/amigo-invisible">
+      <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=amigo-invisible&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Amigo Invisible" />
+    </a>
+    <a href="https://github.com/rafseggom/Criptografia_EVCS">
+      <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=Criptografia_EVCS&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Criptografía EVCS" />
+    </a>
 </div>
 
 ---
@@ -124,7 +125,7 @@ class MyWorkflow:
     def __init__(self):
         self.name = "Rafael Segura Gómez"
         self.role = "Software Engineering Student"
-        # AÑADIDO: PMBOK Fundamentals
+        # PMBOK Fundamentals añadido
         self.methodologies = ["Scrum", "Agile", "PMBOK Fundamentals"]
         self.version_control = "GitFlow"
         self.architecture = ["MVC", "Microservices", "REST APIs"]
@@ -160,6 +161,6 @@ class MyWorkflow:
 I'm always open to interesting conversations and collaboration opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/Contact_me_on_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-segura-g%C3%B3mez-4b19568a/)
-![Email](https://img.shields.io/badge/Email-rafseggom@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Google Forms](https://img.shields.io/badge/Contact_Me-Form-D14836?style=for-the-badge&logo=gmail&logoColor=red)](https://forms.gle/k4AaCDsqD5LRb5u66)
 
 </div>
