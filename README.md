@@ -89,7 +89,21 @@ Software engineering student focused on **practical solutions** and **agile work
 
   <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/top-langs/?username=rafseggom&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
 
-  <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=rafseggom&theme=transparent&hide_border=true&icon_color=2F81F7" height="165" alt="Pinned Repo" />
+</div>
+
+---
+
+## 🧩 Featured Projects
+
+<div align="center">
+        <a href="https://github.com/rafseggom/team-sorter">
+          <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=team-sorter&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Team Sorter" />
+        </a>
+        <a href="https://github.com/rafseggom/amigo-invisible">
+          <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=amigo-invisible&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Amigo Invisible" />
+        </a>
+        <a href="https://github.com/rafseggom/Criptografia_EVCS">
+          <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=Criptografia_EVCS&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Criptografía EVCS" />
 
 </div>
 
@@ -101,7 +115,7 @@ Software engineering student focused on **practical solutions** and **agile work
   <img src="https://github.com/rafseggom/rafseggom/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </div>
 
----
+--- 
 
 ## 💼 Workflow Architecture
 
@@ -110,7 +124,8 @@ class MyWorkflow:
     def __init__(self):
         self.name = "Rafael Segura Gómez"
         self.role = "Software Engineering Student"
-        self.methodologies = ["Scrum", "Agile", "TDD"]
+        # AÑADIDO: PMBOK Fundamentals
+        self.methodologies = ["Scrum", "Agile", "PMBOK Fundamentals"]
         self.version_control = "GitFlow"
         self.architecture = ["MVC", "Microservices", "REST APIs"]
     
@@ -131,7 +146,7 @@ class MyWorkflow:
 ## 🎓 Education & Skills
 
 - 🎓 **Software Engineering** - Universidad de Sevilla
-- 📐 **Agile Methodologies**: Scrum, Sprint Planning, Retrospectives
+- 📐 **Project Management**: Scrum, Agile Workflows & PMBOK Fundamentals
 - 🌿 **Version Control**: Git, GitFlow, Branch Management
 - 💻 **Full Stack Development**: Backend, Frontend, Database Design
 - 📊 **Data-Driven Development**: Analysis and optimization
