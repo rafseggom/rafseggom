@@ -19,17 +19,58 @@
 
 ---
 
-### 🛠 Stack Tecnológico
+### 💻 Stack Tecnológico
 
-<div align="center">
-
-| **Backend & Core** | **Frontend & UI** | **Data & Analytics** | **DevOps & Tools** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=java,python,php" width="100" /> | <img src="https://skillicons.dev/icons?i=react,js,vite" width="100" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,mariadb" width="100" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,vscode" width="125" /> |
-| Spring Boot, Django, Laravel | Streamlit | Sage / Jupyter |  |
-
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <b>Backend & Core</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=java,spring,python,django,php,laravel&perline=3&theme=light" alt="Backend Icons" />
+      <br><br>
+      <sub>
+        <b>Lenguajes:</b> Java, Python, PHP
+        <br>
+        <b>Frameworks:</b> Spring Boot, Django, Laravel
+      </sub>
+    </td>
+    <td align="center" width="25%">
+      <b>Frontend & UI</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=js,react,vite,html,css&perline=3&theme=light" alt="Frontend Icons" />
+      <br><br>
+      <sub>
+        <b>Core:</b> JavaScript, HTML/CSS
+        <br>
+        <b>Libs:</b> React, Vite
+        <br>
+        <b>Python UI:</b> Streamlit
+      </sub>
+    </td>
+    <td align="center" width="25%">
+      <b>Data & Science</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mariadb,pl&perline=3&theme=light" alt="DB Icons" />
+      <br><br>
+      <sub>
+        <b>SQL:</b> MySQL, PostgreSQL, MariaDB
+        <br>
+        <b>Análisis:</b> SageMath, Jupyter
+      </sub>
+    </td>
+    <td align="center" width="25%">
+      <b>DevOps & Tools</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,vscode,idea&perline=3&theme=light" alt="Tools Icons" />
+      <br><br>
+      <sub>
+        <b>Contenedores:</b> Docker, K8s
+        <br>
+        <b>IDE:</b> VS Code, IntelliJ
+      </sub>
+    </td>
+  </tr>
+</table>
 <br>
 
 ### 📊 Métricas de GitHub
