@@ -50,5 +50,5 @@
     <a href="https://github.com/rafseggom?tab=repositories">📂 Ver Proyectos</a> • 
     <a href="#">📘 Technical Wiki & Troubleshooting (Próximamente)</a>
   </p>
-  <p style="font-size: 10px; color: #555;">Contáctame a través de LinkedIn para colaboraciones profesionales.</p>
+  <p style="font-size: 10px; color: #555;">Contáctame a través de LinkedIn para propuestas profesionales.</p>
 </div>
