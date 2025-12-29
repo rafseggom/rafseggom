@@ -84,12 +84,14 @@ Software engineering student focused on **practical solutions** and **agile work
   
   <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api?username=rafseggom&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
   
-  <img src="https://streak-stats.demolab.com/?user=rafseggom&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-sandy-seven.vercel.app/?user=rafseggom&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" alt="GitHub Streak" />
 
   <br>
 
-  <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/top-langs/?username=rafseggom&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/top-langs/?username=rafseggom&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 
+  <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/wakatime?username=rafseggom&layout=compact&theme=transparent&hide_border=true" height="180" alt="WakaTime Stats" />
+  
 </div>
 
 ---
