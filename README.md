@@ -160,7 +160,7 @@ class MyWorkflow:
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/Contact_me_on_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-segura-g%C3%B3mez-4b19568a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-segura-g%C3%B3mez-4b19568a/)
 [![Google Forms](https://img.shields.io/badge/Contact_Me-Form-D14836?style=for-the-badge&logo=gmail&logoColor=red)](https://forms.gle/k4AaCDsqD5LRb5u66)
 
 </div>
