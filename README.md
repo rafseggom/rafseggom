@@ -12,7 +12,7 @@
   <br>
 
   <p align="left">
-    Actualmente cursando el grado de Ingeniería del Software en la <b>Universidad de Sevilla</b>. Mi enfoque se centra en la arquitectura de software robusta, el desarrollo Full Stack y la gestión eficiente de datos. Busco aplicar metodologías profesionales en entornos de desarrollo ágiles.
+    Actualmente cursando el grado de Ingeniería del Software en la <b>Universidad de Sevilla</b>. Formandome, con especial interés, en metodologías ágiles de trabajo como Scrum, arquitectura de software robusta, desarrollo fullstack y gestión eficiente del código.
   </p>
 
 </div>
