@@ -92,7 +92,9 @@ Software engineering student focused on **practical solutions** and **agile work
   <img src="https://github-readme-streak-stats-sandy-seven.vercel.app/?user=rafseggom&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" alt="GitHub Streak" />
 
   
- [![WakaTime Stats](https://github-readme-stats-ten-rosy-54.vercel.app/api/wakatime?username=rafseggom&layout=compact&theme=transparent&hide_border=true&v=2)](https://wakatime.com/@rafseggom)
+  <a href="https://wakatime.com/@rafseggom" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+  <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/wakatime?username=rafseggom&layout=compact&theme=transparent&hide_border=true&v=2" height="180" alt="WakaTime Stats" />
+  </a>
   
 </div>
 
