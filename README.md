@@ -109,6 +109,9 @@ Software engineering student focused on **practical solutions** and **agile work
     <a href="https://github.com/rafseggom/Criptografia_EVCS">
       <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=Criptografia_EVCS&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Criptografía EVCS" />
     </a>
+    <a href="https://github.com/rafseggom/Voltorb-Flip-Solver">
+      <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=Voltorb-Flip-Solver&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Criptografía EVCS" />
+    </a>
 </div>
 
 ---
