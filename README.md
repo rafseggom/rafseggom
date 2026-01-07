@@ -109,8 +109,8 @@ Software engineering student focused on **practical solutions** and **agile work
     <a href="https://github.com/rafseggom/amigo-invisible">
       <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=amigo-invisible&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Amigo Invisible" />
     </a>
-    <a href="https://github.com/rafseggom/Criptografia_EVCS">
-      <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=Criptografia_EVCS&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Criptografía EVCS" />
+    <a href="https://github.com/rafseggom/type-covering">
+      <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=type-covering&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Type Covering Calculator" />
     </a>
     <a href="https://github.com/rafseggom/voltorb-flip-solver">
       <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=voltorb-flip-solver&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Criptografía EVCS" />
