@@ -106,6 +106,9 @@ Software engineering student focused on **practical solutions** and **agile work
     <a href="https://github.com/rafseggom/team-sorter">
       <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=team-sorter&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Team Sorter" />
     </a>
+    <a href="https://github.com/rafseggom/decawise">
+      <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=decawise&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="decawise" />
+    </a>
     <a href="https://github.com/rafseggom/amigo-invisible">
       <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=amigo-invisible&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Amigo Invisible" />
     </a>
@@ -113,8 +116,12 @@ Software engineering student focused on **practical solutions** and **agile work
       <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=pokehelper-tool&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Type Covering Calculator" />
     </a>
     <a href="https://github.com/rafseggom/voltorb-flip-solver">
-      <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=voltorb-flip-solver&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Criptografía EVCS" />
+      <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=voltorb-flip-solver&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Voltorb Flip Solver" />
     </a>
+    <a href="https://github.com/rafseggom/Criptografia_EVCS">
+      <img src="https://github-readme-stats-ten-rosy-54.vercel.app/api/pin/?username=rafseggom&repo=Criptografia_EVCS&theme=tokyonight&hide_border=true&icon_color=2F81F7" alt="Criptografía EVCS" />
+    </a>
+    
 </div>
 
 ---
